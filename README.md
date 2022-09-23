@@ -1,7 +1,7 @@
 # Programowanie Serwisów Internetowych
 
 - Bartosz Antkiewicz indeks:150817
-- Mateusz Białek indeks:151198
+
 
 
 # Model bazy danych
