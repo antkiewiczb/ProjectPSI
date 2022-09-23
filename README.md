@@ -1,9 +1,9 @@
-# Programowanie Serwisów Internetowych
+# Programming of Websites
 
 - Bartosz Antkiewicz indeks:150817
 
 
 
-# Model bazy danych
+# Database model
 
 ![alt text](https://github.com/antkiewiczb/ProjectPSI/blob/master/db_schema.png)
